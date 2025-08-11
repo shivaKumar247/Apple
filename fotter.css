@@ -1,0 +1,100 @@
+#nav-fotter{
+  /* border: 5px solid green; */
+  height: 63vh;
+  box-sizing: border-box;
+  min-width: 1124px;
+  max-width: 980px;
+    padding: 15px 22px
+  
+    
+}
+
+#nav-fotter{
+    margin-left: 200px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    font-family: "SF Pro Text", "Myriad Set Pro", "SF Pro Icons", "Apple Legacy Chevron", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    background: rgb(245, 245, 247);
+    gap: 10px;
+    
+}
+
+#nav-fotter h3{
+    
+    font-size: 12px;
+    line-height: 1.3333733333;
+    font-weight: 400;
+    letter-spacing: -0.01em;
+    font-family: "SF Pro Text", "Myriad Set Pro", "SF Pro Icons", "Apple Legacy Chevron", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-weight: 600;
+    margin-bottom: .8em;
+    margin-inline-end: 20px;
+    outline: none;
+}
+
+#nav-fotter ul{
+    list-style: none;
+    
+}
+
+
+#nav-fotter ul li{
+    font-size: 12px;
+    line-height: 1.3333733333;
+    font-weight: 400;
+    letter-spacing: -0.01em;
+    font-family: "SF Pro Text", "Myriad Set Pro", "SF Pro Icons", "Apple Legacy Chevron", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-weight: 600;
+    margin-bottom: .8em;
+    margin-inline-end: 20px;
+    outline: none;
+
+}
+
+#nav-fotter ul li a{
+    color: rgba(0, 0, 0, 0.56);
+    min-width: 1024px;
+    overflow: hidden;
+}
+
+
+#fotter2{
+    font-size: 15px;
+    line-height: 2.3333733333;
+    font-weight: 400;
+    letter-spacing: -0.01em;
+    padding-bottom: 19px;
+    border-bottom: 1px solid var(--footer-section-border-color);
+    display: flex;
+    justify-content: center;
+    margin-left: -25%;
+    margin-top: 0%;
+    font-family: "SF Pro Text", "Myriad Set Pro", "SF Pro Icons", "Apple Legacy Chevron", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    background: rgb(245, 245, 247);
+    color: rgba(0, 0, 0, 0.56);
+}
+
+
+#fotter3{
+    height: 50px;
+    border: 1px solid;
+    padding: 0%;
+    margin-top: 0%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#fotter3 div{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0%;
+    margin-top: -2%;
+}
+
+#fotter3 div li{
+    gap: 10px;
+}
