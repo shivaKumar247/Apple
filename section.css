@@ -10,7 +10,7 @@
     /* border: 5px solid blue; */
     height: inherit;
     flex: 1;
-    background-image: url(../image/image4.jpg);
+    background-image: url(image4.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -73,7 +73,7 @@
     /* border: 5px solid green; */
     height: inherit;
     flex: 1;
-    background-image: url(../image/image5.jpg);
+    background-image: url(image5.jpg);
     background-repeat: no-repeat;
     background-size:cover;
     background-position: center center;
@@ -134,7 +134,7 @@
     /* border: 2px solid blue; */
     height: inherit;
     flex:1;
-    background-image: url("../image/phones.jpg");
+    background-image: url("phones.jpg");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -172,7 +172,7 @@
 #right1{
     /* border: 2px solid green; */
     height: inherit;
-    background-image: url("../image/back-phone.jpg");
+    background-image: url("back-phone.jpg");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -231,7 +231,7 @@
     /* border: 2px solid blue; */
     height: inherit;
     flex:1;
-    background-image: url("../image/buds.jpg");
+    background-image: url("buds.jpg");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -281,7 +281,7 @@
 #right3{
     /* border: 2px solid green; */
     height: inherit;
-    background-image: url("../image/hands.jpg");
+    background-image: url("hands.jpg");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -346,3 +346,4 @@
     font-family: "SF Pro Text", "Myriad Set Pro", "SF Pro Icons", "Apple Legacy Chevron", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
     row-gap: 12px;
 }
+
