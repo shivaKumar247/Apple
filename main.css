@@ -1,3 +1,5 @@
+@media(max-width: 768px) 
+
 #main{
     /* border: 2px solid; */
     position: relative;
@@ -95,5 +97,6 @@
     font-weight: 400;
     cursor: pointer;    
 }
+
 
 
