@@ -95,6 +95,17 @@
     margin-top: -2%;
 }
 
-#fotter3 div li{
-    gap: 10px;
+#fotter3 ul{
+    list-style: none;
+    width: 500px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: -90px;
+
+}
+
+#fotter3  a {
+    color: rgba(0, 0, 0, 0.72);
 }
