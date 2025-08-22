@@ -5,9 +5,8 @@
     position: relative;
     top: 50px;
     height: 83vh;
-    background-image: url("apple.jpg");
     background-position: center;
-
+    background-image: url("apple.jpg");
 }
 
 #main p{
@@ -97,6 +96,7 @@
     font-weight: 400;
     cursor: pointer;    
 }
+
 
 
 
